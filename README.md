@@ -29,7 +29,7 @@ If you have any questions, project ideas, or just want to connect, feel free to 
 
 - - Email: [aaghafazal09@gmail.com](mailto)
 
-- GitHub: [[Your GitHub Profile URL](https://github.com/LgcyAlex)]
+- GitHub: [[GitHub Profile ](https://github.com/LgcyAlex)]
 
 
 I'm always open to collaborations and learning opportunities, so don't hesitate to get in touch!
