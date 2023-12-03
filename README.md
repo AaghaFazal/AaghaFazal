@@ -1,7 +1,7 @@
-  
-# Welcome to My GitHub Account!
 
 <p align="center"> <img src="https://wallpapercave.com/uwp/uwp757693.gif" height="250px" width="300px" ></img> <br><br> </p>
+
+# Welcome to My GitHub Account!
 
 ## About Me
 
