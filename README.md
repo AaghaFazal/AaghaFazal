@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://wallpapercave.com/uwp/uwp757693.gif" height="250px" width="300px" ></img> <br><br> </p>
 
 
-Hello there! I am Fazal, and I currently studying in class 12th. I have a deep passion for coding and exploring the world of technology. My journey into the fascinating realm of programming began a few years ago, and ever since, I've been honing my skills and delving into various coding projects.
+Hello there! I am Fazal, and I currently studying in B.Tech first year. I have a deep passion for coding and exploring the world of technology. My journey into the fascinating realm of programming began a few years ago, and ever since, I've been honing my skills and delving into various coding projects.
 
 ## Interests and Hobbies
 
